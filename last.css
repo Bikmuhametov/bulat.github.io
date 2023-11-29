@@ -1,0 +1,28 @@
+header{
+background-color: #B6E2E3;
+color:#1D2424;
+text-align: center;
+padding: 17px;
+font-family: fantasy;
+}
+h3{
+	font-size: 30px;
+	background-color: #98CCD1;
+}
+p{
+color: #3D3D3D
+font-size: 45px;
+text-align: center;
+background-color: #98CCD1;
+font-family: ultra-expanded;
+}
+h2{
+font-size: 70px;
+}
+body{
+background-color: #98CCD1;
+}
+img{
+width: 500px;
+height: 300px;
+}
